@@ -4,17 +4,58 @@
       "assignedTo": {
         "name": "wuhao103"
       },
-      "creation_time": "2021-02-03T05:20:45.548Z",
+      "creation_time": "2021-02-03T08:24:17.890Z",
+      "id": "9",
+      "references": [],
+      "title": "前端实现任务列表页面"
+    },
+    {
+      "assignedTo": {
+        "name": "wuhao103"
+      },
+      "creation_time": "2021-02-03T08:23:59.608Z",
+      "id": "8",
+      "references": [],
+      "title": "前端实现开发人员登录页面"
+    },
+    {
+      "assignedTo": {
+        "name": "wuhao103"
+      },
+      "creation_time": "2021-02-03T08:23:14.426Z",
       "description": {
-        "content": "前端采用antd pro",
+        "content": "增删改查，添加开发人员",
         "mime": "text/markdown"
       },
-      "id": "4",
+      "id": "7",
       "references": [],
-      "title": "前端框架搭建"
+      "title": "后端任务增删改查编写"
+    },
+    {
+      "assignedTo": {
+        "name": "wuhao103"
+      },
+      "creation_time": "2021-02-03T08:24:30.889Z",
+      "id": "10",
+      "references": [],
+      "title": "前端实现人员列表页面"
     }
   ],
-  "in-progress": [],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "wuhao103"
+      },
+      "creation_time": "2021-02-03T08:22:38.515Z",
+      "description": {
+        "content": "增加开发人员\n修改开发人员账号与密码\n删除开发人员\n查看所有开发人员",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "references": [],
+      "title": "后端开发人员增删改查接口编写"
+    }
+  ],
   "testing": [],
   "done": [
     {
@@ -29,6 +70,32 @@
       "id": "3",
       "references": [],
       "title": "任务表结构设计"
+    },
+    {
+      "assignedTo": {
+        "name": "wuhao103"
+      },
+      "creation_time": "2021-02-03T05:20:45.548Z",
+      "description": {
+        "content": "前端采用antd pro",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "references": [],
+      "title": "前端框架搭建"
+    },
+    {
+      "assignedTo": {
+        "name": "wuhao103"
+      },
+      "creation_time": "2021-02-03T05:21:13.414Z",
+      "description": {
+        "content": "后端采用spring boot结合mybatis",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "后端框架搭建"
     },
     {
       "assignedTo": {
@@ -56,19 +123,6 @@
       "id": "1",
       "references": [],
       "title": "编写产品文档"
-    },
-    {
-      "assignedTo": {
-        "name": "wuhao103"
-      },
-      "creation_time": "2021-02-03T05:21:13.414Z",
-      "description": {
-        "content": "后端采用spring boot结合mybatis",
-        "mime": "text/markdown"
-      },
-      "id": "5",
-      "references": [],
-      "title": "后端框架搭建"
     }
   ]
 }
